@@ -1,0 +1,15 @@
+{
+  "name": "rps",
+  "version": "1.0.0",
+  "description": "A simple multi-player rock, paper, scissors game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nate Grobe, Cole Kahkonen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
